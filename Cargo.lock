@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "my_first_mcu_project"
+name = "STM_F446RE_Rust"
 version = "0.1.0"
